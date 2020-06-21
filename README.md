@@ -1,9 +1,9 @@
 About:
 ======
 
-The Kip Docking Ports mod is a set of specialised docking ports for Kerbal Space Program.
+The *Kip Docking Ports* mod is a set of specialised docking ports for *Kerbal Space Program*.
 
-This mod is a combined re-release of two mods originally created by Captain Kipard : Non-Androgynous Docking Ports and Univesral Docking Ports.
+This mod is a combined re-release of two mods originally created by **Captain Kipard** : *Non-Androgynous Docking Ports* and *Universal Docking Ports*.
 
 The Non-Androgynous Docking Ports are a matching set of gendered docking ports for the 1.25m stack. The Universal Docking Ports are aimed at orbital construction tugs and each allows docking to several different docking port sizes.
 
@@ -12,11 +12,11 @@ The Non-Androgynous Docking Ports are a matching set of gendered docking ports f
 Installation:
 =============
 
-**NB**: If upgrading from Kips' original mods, move the <KSP Directory>/GameData/KipEng folder somewhere safe first. It may contain several of Kips mods and you may want to keep some parts which are not included in this mod.
+**NB**: If upgrading from Kips' original mods, move the *\<KSP Directory\>/GameData/KipEng* folder somewhere safe first. It may contain several of Kips mods and you may want to keep some parts which are not included in this mod.
 
-1. Delete the <KSP directory>/GameData/KipEng folder if it exists.
+1. Delete the *\<KSP directory\>/GameData/KipEng* folder if it exists.
 
-2. Copy the contents of the Gamedata directory into <KSP directory>/GameData/
+2. Copy the contents of the Gamedata directory into *\<KSP directory\>/GameData/*
 
 --------------------------------------------------
 
@@ -61,6 +61,7 @@ Download links:
 ---------------
 
 - [GitHub](https://github.com/mwerle/KipDockingPorts/releases)
+- [SpaceDock](https://spacedock.info/mod/2454)
 
 --------------------------------------------------
 
