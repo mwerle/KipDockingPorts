@@ -1,0 +1,8 @@
+#Ignore backups and temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+#Ignore thumbnails created by Windows
+Thumbs.db
