@@ -62,10 +62,11 @@ Download links:
 
 - [GitHub](https://github.com/mwerle/KipDockingPorts/releases)
 - [SpaceDock](https://spacedock.info/mod/2454)
+- [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/kipdockingports)
 
 --------------------------------------------------
 
-See CHANGELOG.md for the changelog.
+See [CHANGELOG.md](/CHANGELOG.md) for the changelog.
 
 --------------------------------------------------
 
