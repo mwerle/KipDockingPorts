@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [{VERSION}] - {DATE}
+### Changed
+- made the active and passive ports lighter by about half.
+
+### New
+- added rotation to the universal docking ports (requires KSP V1.12 onwards)
+- added a staging icon to all docking ports
+- added cargo definition to all parts (requires KSP  v1.11 onwards)
 
 ## [0.2] - 2020-06-25
 ### Changed
